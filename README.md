@@ -58,8 +58,8 @@ nexus-artifact-publish-demo/
 ├── java-app/ # Gradle project
 ├── java-maven-app/ # Maven project
 └── README.md
+```
 
 ## ✅ Outcome
 
 Both projects successfully built and published .jar files to Nexus repositories hosted on DigitalOcean.
-```
